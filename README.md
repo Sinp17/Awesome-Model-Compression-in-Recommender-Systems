@@ -9,7 +9,7 @@ This repo aims to provide the info for model compression research (especially in
 > - We propose two criteria to classify these papers.
 
 
-## Divide by compression techniques.
+## Divide by compression techniques
 ### Parameter Pruning
 1. [DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving](http://arxiv.org/abs/2002.06987)[WSDM 2021]
 1. [UMEC: UNIFIED MODEL AND EMBEDDING COMPRES- SION FOR EFFICIENT RECOMMENDATION SYSTEMS](https://openreview.net/forum?id=BM---bH_RSh)[ICLR 2021]
@@ -31,7 +31,8 @@ This repo aims to provide the info for model compression research (especially in
 1. [Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems](https://doi.org/10.1145/3394486.3403059)[KDD 2021]
 5. [XLightFM: Extremely Memory-Efficient Factorization Machine](https://doi.org/10.1145/3404835.3462941)[SIGIR 2021]
 6. [Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings](http://arxiv.org/abs/2204.00185)[SIGIR 2022]
-7. [Learning Elastic Embeddings for Customizing On-Device Recommenders](https://arxiv.org/abs/2211.14729)(KDD 2021)
+7. [Learning Elastic Embeddings for Customizing On-Device Recommenders](https://arxiv.org/abs/2106.02223)[KDD 2021]
+8. [Lightweight Self-Attentive Sequential Recommendation](http://arxiv.org/abs/2108.11333)[CIKM 2021]
 
 ### Embedding Factorization
 1. [Fast and Memory-Efficient Tucker Decomposition for Answering Diverse Time Range Queries](https://doi.org/10.1145/3447548.3467290)[KDD 2021]
@@ -59,13 +60,24 @@ This repo aims to provide the info for model compression research (especially in
 
 
 
-## Divide by specific field
+## Divide by specific task
 ### general recommendation/CTR-prediction
-
-
+1. [DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving](http://arxiv.org/abs/2002.06987)[WSDM 2021]
+1. [UMEC: UNIFIED MODEL AND EMBEDDING COMPRES- SION FOR EFFICIENT RECOMMENDATION SYSTEMS](https://openreview.net/forum?id=BM---bH_RSh)[ICLR 2021]
+4. [Single-Shot Embedding Dimension Search in Recommender System](https://arxiv.org/abs/2204.03281)[SIGIR 2022]
+5. [OptEmbed: Learning Optimal Embedding Table for Click-through Rate Prediction](https://dl.acm.org/doi/10.1145/3511808.3557411)[CIKM 2022
+6. [Learning Multi-Granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems](https://dl.acm.org/doi/10.1145/3366424.3383416)[WWW 2020]
+1. [Product Quantized Collaborative Filtering](https://ieeexplore.ieee.org/document/8950031/)[TKDE 2020]
+2. [LightRec: A Memory and Search-Efficient Recommender System](https://dl.acm.org/doi/10.1145/3366423.3380151)[WWW 2020]
+5. [XLightFM: Extremely Memory-Efficient Factorization Machine](https://doi.org/10.1145/3404835.3462941)[SIGIR 2021]
+6. [Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings](http://arxiv.org/abs/2204.00185)[SIGIR 2022]
+1. [Rocket Launching: A Universal and Efficient Framework for Training Well-Performing Light Net](http://arxiv.org/abs/1708.04106)[AAAI 2018]
+1. [Ensembled CTR Prediction via Knowledge Distillation](https://doi.org/10.1145/3340531.3412704)[CIKM 2020]
 ### sequential recommendation/session-based RS
-
-
+1. [A Generic Network Compression Framework for Sequential Recommender Systems](http://arxiv.org/abs/2004.13139)[SIGIR 2020]
+3. [Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices](https://dl.acm.org/doi/10.1145/3366423.3380170)[WWW 2020]
+4. [On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation](http://arxiv.org/abs/2204.11091)[SIGIR 2022]
+8. [Lightweight Self-Attentive Sequential Recommendation](http://arxiv.org/abs/2108.11333)[CIKM 2021]
 ------
 
 
