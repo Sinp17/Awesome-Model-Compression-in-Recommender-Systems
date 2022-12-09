@@ -5,7 +5,7 @@ This repo aims to provide the info for model compression research (especially in
 
 ## Feature
 
-> - Focus on compression techniques Recommender Systems.
+> - Focus on compression techniques in Recommender Systems.
 > - We propose two criteria to classify these papers.
 
 
